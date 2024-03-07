@@ -1,2 +1,2 @@
 # laundry-tracking
- For tracking my laundry money
+For tracking my laundry money!
